@@ -23,7 +23,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```js
 function addTogether() {
   function isNumber(num) {
     if (typeof num !== "number") {
@@ -72,3 +72,6 @@ addTogether(2,3);
 * `addTogether("http://bit.ly/IqT6zt")` should return undefined.
 * `addTogether(2, "3")` should return undefined.
 * `addTogether(2)([3])` should return undefined.
+
+
+
