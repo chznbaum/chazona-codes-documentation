@@ -41,20 +41,20 @@
       * [Boo who](/computer-science/algorithms/free-code-camp/boo-who.md)
       * [Sorted Union](/computer-science/algorithms/free-code-camp/sorted-union.md)
       * [Convert HTML Entities](/computer-science/algorithms/free-code-camp/convert-html-entities.md)
-      * Spinal Tap Case
-      * Sum All Odd Fibonacci Numbers
-      * Sum All Primes
-      * Smallest Common Multiple
-      * Finders Keepers
-      * Drop it
-      * Steamroller
-      * Binary Agents
-      * Everything Be True
-      * Arguments Optional
-      * Validate US Telephone Numbers
+      * [Spinal Tap Case](/computer-science/algorithms/free-code-camp/spinal-tap.md)
+      * [Sum All Odd Fibonacci Numbers](/computer-science/algorithms/free-code-camp/sum-all-odd-fibonacci-numbers.md)
+      * [Sum All Primes](/computer-science/algorithms/free-code-camp/sum-all-primes.md)
+      * [Smallest Common Multiple](/computer-science/algorithms/free-code-camp/smallest-common-multiple.md)
+      * [Finders Keepers](/computer-science/algorithms/free-code-camp/finders-keepers.md)
+      * [Drop it](/computer-science/algorithms/free-code-camp/drop-it.md)
+      * [Steamroller](/computer-science/algorithms/free-code-camp/steamroller.md)
+      * [Binary Agents](/computer-science/algorithms/free-code-camp/binary-agents.md)
+      * [Everything Be True](/computer-science/algorithms/free-code-camp/everything-be-true.md)
+      * [Arguments Optional](/computer-science/algorithms/free-code-camp/arguments-optional.md)
+      * [Validate US Telephone Numbers](/computer-science/algorithms/free-code-camp/validate-us-telephone-numbers.md)
       * Record Collection
-      * Symmetric Difference
-      * Exact Change
+      * [Symmetric Difference](/computer-science/algorithms/free-code-camp/symmetric-difference.md)
+      * [Exact Change](/computer-science/algorithms/free-code-camp/exact-change.md)
 * [Career Building](/career-building/README.md)
   * [Networking](/career-building/networking/README.md)
     * [Meetups](/career-building/networking/meetups/README.md)
