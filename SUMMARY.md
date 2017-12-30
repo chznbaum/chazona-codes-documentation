@@ -11,20 +11,15 @@
   * [Ruby](/back-end/ruby/README.md)
     * [Jekyll](/back-end/ruby/jekyll/README.md)
     * [Rails](/back-end/ruby/rails/README.md)
-
-[Computer Science](/computer-science/README.md "Computer Science")
-
-* [Algorithms](/computer-science/algorithms/README.md)
-
-Career Building
-
-* Networking
-  Meetups
-  * Finding Meetups
-  * Forming a Meetup
-
-  Meetups for Good
-
+* [Computer Science](/computer-science/README.md "Computer Science")
+  * [Algorithms](/computer-science/algorithms/README.md)
+* Career Building
+  * Networking
+    * Meetups
+      * Finding Meetups
+      * Forming a Meetup
+      * Meetups for Good
+    * Networking
   * Open Source Software
 
 
