@@ -13,14 +13,14 @@
     * [Rails](/back-end/ruby/rails/README.md)
 * [Computer Science](/computer-science/README.md "Computer Science")
   * [Algorithms](/computer-science/algorithms/README.md)
-* Career Building
-  * Networking
-    * Meetups
-      * Finding Meetups
-      * Forming a Meetup
-      * Meetups for Good
-    * Networking
-  * Open Source Software
+* [Career Building](/career-building/README.md)
+  * [Networking](/career-building/networking/README.md)
+    * [Meetups](/career-building/networking/meetups/README.md)
+      * [Finding Meetups](/career-building/networking/meetups/finding-meetups.md)
+      * [Forming a Meetup](/career-building/networking/meetups/forming-a-meetup.md)
+      * [Meetups for Good](/career-building/networking/meetups/meetups-for-good.md)
+    * [Conferences](/career-building/networking/conferences/README.md)
+  * [Open Source Software](/career-building/open-source-software/README.md)
 
 
 
