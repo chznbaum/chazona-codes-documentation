@@ -36,7 +36,6 @@ These companies are known to offer apprenticeships or have built their business 
   * Operates in:
     * Jackson Beach, Florida
     * Chicago, Illinois
-
 * [Home Depot](https://careers.homedepot.com/job/7172989/apprentice-software-engineer-atlanta-ga/)
   * Operates in Atlanta, Georgia
 * [LaunchCode](https://www.launchcode.org/)
@@ -52,10 +51,8 @@ These companies are known to offer apprenticeships or have built their business 
   * Operates in:
     * Richmond, Virginia
     * Norfolk, Virginia
-
 * [Microsoft](http://www.industryexplorers.com/)
   * Operates in Redmond, Washington
-
 * [Moove-it](https://moove-it.com/web-development-apprenticeship)
   * Operates in Austin, Texas
 * [P'unk Avenue Apprenticeship](http://punkave.github.io/Apprenticeship/)
