@@ -5,6 +5,7 @@ Apprenticeships are a relatively under-utilized way to break into the tech indus
 Benefits to apprentice:
 
 * Get paid to learn best practices in an intensive but understanding setting
+* Gain legitimate work experience to form a great launching point into the industry
 * Start off with a network of fellow developers with differing levels of experience
 
 Benefits to companies:
