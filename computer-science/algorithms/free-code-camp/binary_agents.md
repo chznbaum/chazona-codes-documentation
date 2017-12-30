@@ -15,7 +15,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function binaryAgent(str) {
   var binaryArray = str.split(" ");
   console.log(binaryArray);

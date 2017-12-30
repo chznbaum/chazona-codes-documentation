@@ -18,7 +18,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function dropElements(arr, func) {
   // Drop them elements.
   for (i = 0; i < arr.length; i) {

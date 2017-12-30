@@ -16,7 +16,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function diffArray(arr1, arr2) {
   var newArr = [];
   $.each(arr1, function(i, value) {

@@ -22,7 +22,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function palindrome(str) {
   // Remove non-alphanumeric characters from str and make lowercase
   str = str.replace(/[^0-9a-z]/gi, "");

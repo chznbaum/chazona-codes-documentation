@@ -19,7 +19,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function rot13(str) { // LBH QVQ VG!
   var strArray = str.split("");
   var newArray = [];

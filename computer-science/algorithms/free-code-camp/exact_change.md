@@ -18,7 +18,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function checkCashRegister(price, cash, cid) {
   var change = [];
   // Here is your change, ma'am.

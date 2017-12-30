@@ -14,7 +14,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function booWho(bool) {
   // What is the new fad diet for ghost developers? The Boolean.
   if (bool === true || bool === false) {

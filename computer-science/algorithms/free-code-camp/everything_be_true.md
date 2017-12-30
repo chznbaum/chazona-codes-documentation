@@ -10,7 +10,7 @@ Remember to use **Read-Search-Ask** if you get stuck. Try to pair program. Write
 
 ## Solution
 
-```
+```javascript
 function truthCheck(collection, pre) {
   // Is everyone being true?
   var itemArray = [];

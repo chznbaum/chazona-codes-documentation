@@ -15,7 +15,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function confirmEnding(str, target) {
   //Select the ending characters in str, equal in length to the target
   var ending = str.substring(str.length - target.length);

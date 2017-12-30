@@ -23,7 +23,7 @@ Here are some helpful links:
 
 ## Solution
 
-```js
+```javascript
 function addTogether() {
   function isNumber(num) {
     if (typeof num !== "number") {

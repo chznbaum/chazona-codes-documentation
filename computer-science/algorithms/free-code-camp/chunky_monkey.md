@@ -13,7 +13,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function chunkArrayInGroups(arr, size) {
   var newArr = [];
   for (i = 0; i < arr.length; i += size) {

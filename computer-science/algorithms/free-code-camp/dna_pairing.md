@@ -21,7 +21,7 @@ Here are some helpful links:
 
 ## Solution
 
-```
+```javascript
 function pairElement(str) {
   str = str.split("");
   for (item in str) {
