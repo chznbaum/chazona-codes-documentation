@@ -52,7 +52,7 @@
       * [Everything Be True](/computer-science/algorithms/free-code-camp/everything-be-true.md)
       * [Arguments Optional](/computer-science/algorithms/free-code-camp/arguments-optional.md)
       * [Validate US Telephone Numbers](/computer-science/algorithms/free-code-camp/validate-us-telephone-numbers.md)
-      * Record Collection
+      * [Record Collection](/computer-science/algorithms/free-code-camp/record-collection.md)
       * [Symmetric Difference](/computer-science/algorithms/free-code-camp/symmetric-difference.md)
       * [Exact Change](/computer-science/algorithms/free-code-camp/exact-change.md)
 * [Career Building](/career-building/README.md)
