@@ -21,6 +21,8 @@
       * [Meetups for Good](/career-building/networking/meetups/meetups-for-good.md)
     * [Conferences](/career-building/networking/conferences/README.md)
   * [Open Source Software](/career-building/open-source-software/README.md)
+  * [Apprenticeships](/career-building/apprenticeships/README.md)
+  * [Freelancing](/career-building/freelancing/README.md)
 
 
 
