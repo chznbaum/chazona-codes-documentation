@@ -13,23 +13,48 @@
     * [Rails](/back-end/ruby/rails/README.md)
 * [Computer Science](/computer-science/README.md "Computer Science")
   * [Algorithms](/computer-science/algorithms/README.md)
-    * freeCodeCamp
-      * Reverse a String
-      * Factorialize a Number
-      * Check for Palindromes
-      * Find the Longest Word in a String
-      * Title Case a Sentence
-      * Return Largest Numbers in Arrays
-      * Confirm the Ending
-      * Repeat a string repeat a string
-      * Truncate a string
-      * Chunky Monkey
-      * Slasher Flick
-      * Mutations
-      * Falsy Bouncer
-      * Seek and Destroy
-      * Where do I belong
-      * Caesars Cipher
+    * [freeCodeCamp](/computer-science/algorithms/free-code-camp/README.md)
+      * [Reverse a String](/computer-science/algorithms/free-code-camp/reverse-a-string.md)
+      * [Factorialize a Number](/computer-science/algorithms/free-code-camp/factorialize-a-number.md)
+      * [Check for Palindromes](/computer-science/algorithms/free-code-camp/check-for-palindromes.md)
+      * [Find the Longest Word in a String](/computer-science/algorithms/free-code-camp/find-the-longest-word-in-a-string.md)
+      * [Title Case a Sentence](/computer-science/algorithms/free-code-camp/title-case-a-sentence.md)
+      * [Return Largest Numbers in Arrays](/computer-science/algorithms/free-code-camp/return-largest-numbers-in-arrays.md)
+      * [Confirm the Ending](/computer-science/algorithms/free-code-camp/confirm-the-ending.md)
+      * [Repeat a string repeat a string](/computer-science/algorithms/free-code-camp/repeat-a-string-repeat-a-string.md)
+      * [Truncate a string](/computer-science/algorithms/free-code-camp/truncate-a-string.md)
+      * [Chunky Monkey](/computer-science/algorithms/free-code-camp/chunky-monkey.md)
+      * [Slasher Flick](/computer-science/algorithms/free-code-camp/slasher-flick.md)
+      * [Mutations](/computer-science/algorithms/free-code-camp/mutations.md)
+      * [Falsy Bouncer](/computer-science/algorithms/free-code-camp/falsy-bouncer.md)
+      * [Seek and Destroy](/computer-science/algorithms/free-code-camp/seek-and-destroy.md)
+      * [Where do I belong](/computer-science/algorithms/free-code-camp/where-do-i-belong.md)
+      * [Caesars Cipher](/computer-science/algorithms/free-code-camp/caesars-cipher.md)
+      * [Sum All Numbers in a Range](/computer-science/algorithms/free-code-camp/sum-all-numbers-in-a-range.md)
+      * [Diff Two Arrays](/computer-science/algorithms/free-code-camp/diff-two-arrays.md)
+      * [Roman Numeral Converter](/computer-science/algorithms/free-code-camp/roman-numeral-converter.md)
+      * [Wherefore art thou](/computer-science/algorithms/free-code-camp/wherefore-art-thou.md)
+      * [Search and Replace](/computer-science/algorithms/free-code-camp/search-and-replace.md)
+      * [Pig Latin](/computer-science/algorithms/free-code-camp/pig-latin.md)
+      * [DNA Pairing](/computer-science/algorithms/free-code-camp/dna-pairing.md)
+      * [Missing letters](/computer-science/algorithms/free-code-camp/missing-letters.md)
+      * [Boo who](/computer-science/algorithms/free-code-camp/boo-who.md)
+      * [Sorted Union](/computer-science/algorithms/free-code-camp/sorted-union.md)
+      * [Convert HTML Entities](/computer-science/algorithms/free-code-camp/convert-html-entities.md)
+      * Spinal Tap Case
+      * Sum All Odd Fibonacci Numbers
+      * Sum All Primes
+      * Smallest Common Multiple
+      * Finders Keepers
+      * Drop it
+      * Steamroller
+      * Binary Agents
+      * Everything Be True
+      * Arguments Optional
+      * Validate US Telephone Numbers
+      * Record Collection
+      * Symmetric Difference
+      * Exact Change
 * [Career Building](/career-building/README.md)
   * [Networking](/career-building/networking/README.md)
     * [Meetups](/career-building/networking/meetups/README.md)
