@@ -6,7 +6,7 @@ Conferences are often eager to welcome new attendees to their communities, offer
 
 Some conferences known to offer scholarships:
 
-* [CodeLand](http://codelandconf.com/#scholarship)
+* [CodeLand](http://codelandconf.com/#scholarship): a two-day conference produced by [CodeNewbie](https://www.codenewbie.org/) and geared for newer members of the code community
   * Ticket price heavily discounted to $25
   * Assistance with travel costs
   * Members of underrepresented groups in tech, including women, members of underrepresented demographic groups, and members of the LGBTQ community are highly encouraged to apply.
