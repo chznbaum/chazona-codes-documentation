@@ -10,8 +10,18 @@ Some conferences known to offer scholarships:
   * Ticket price heavily discounted to $25
   * Assistance with travel costs
   * Members of underrepresented groups in tech, including women, members of underrepresented demographic groups, and members of the LGBTQ community are highly encouraged to apply.
-* RailsConf
-* RubyConf
+* [RailsConf](http://railsconf.com/): the largest and longest-running conference for Rails enthusiasts
+  * Free ticket
+
+  * Pairing with a guide - an experienced programmer or conference-goer
+  * Free on-site childcare and lactation room
+  * Students, women, minorities and members of other underrepresented groups in tech are highly encouraged to apply.
+* [RubyConf](http://rubyconf.org/): the main annual conference for Rubyists
+  * Free ticket
+
+  * Pairing with a guide - an experienced programmer or conference-goer
+  * Free on-site childcare and lactation room
+  * Students, women, minorities and members of other underrepresented groups in tech are highly encouraged to apply.
 
 ## Speaking
 
