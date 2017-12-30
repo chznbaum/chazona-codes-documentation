@@ -28,7 +28,7 @@ These companies are known to offer apprenticeships or have built their business 
 * [MAXX Potential](https://maxxpotential.com/)
   * Operates in:
     * Richmond, Virginia
-    * Hampton Roads, Virginia
+    * Norfolk, Virginia
 
 
 
