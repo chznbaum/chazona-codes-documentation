@@ -7,7 +7,7 @@
     * [Syntax](/front-end/css/syntax/README.md)
       * [Selectors](/front-end/css/syntax/selectors.md)
     * [Organization](/front-end/css/organization/README.md)
-      * BEM
+      * [BEM](/front-end/css/organization/bem/README.md)
   * [JavaScript](/front-end/javascript/README.md)
   * [User Experience](/front-end/ux/README.md)
   * [Accessibility](/front-end/accessibility/README.md)
