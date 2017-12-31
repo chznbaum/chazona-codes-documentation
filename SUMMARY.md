@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Getting Started](/getting-started/README.md)
+* [Version Control](/version-control/README.md)
+  * [Git](/version-control/git/README.md)
 * [Front End](/front-end/README.md)
   * [HTML](/front-end/html/README.md)
   * [CSS](/front-end/css/README.md)
