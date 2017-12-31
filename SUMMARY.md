@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Getting Started](/getting-started/README.md)
 * [Front End](/front-end/README.md)
   * [HTML](/front-end/html/README.md)
   * [CSS](/front-end/css/README.md)
