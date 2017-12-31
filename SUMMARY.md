@@ -21,7 +21,7 @@
 * [Computer Science](/computer-science/README.md "Computer Science")
   * [Unix/Linux](/computer-science/unix-linux/README.md)
     * [Useful Shell Commands](/computer-science/unix-linux/shell-commands.md)
-* * [Algorithms](/computer-science/algorithms/README.md)
+  * [Algorithms](/computer-science/algorithms/README.md)
     * [freeCodeCamp](/computer-science/algorithms/free-code-camp/README.md)
       * [Reverse a String](/computer-science/algorithms/free-code-camp/reverse-a-string.md)
       * [Factorialize a Number](/computer-science/algorithms/free-code-camp/factorialize-a-number.md)
