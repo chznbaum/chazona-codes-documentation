@@ -16,6 +16,7 @@
 * [How CSS Pseudo-Classes Work](): An explanation of pseudo-classes and their usefulness with code examples and plenty of diagrams
 * [Which Colors to Avoid in Web Design](https://medium.com/wd-tips-tricks/which-colors-to-avoid-in-web-design-8eb8ec1832c7): An overview of some not-to-dos with color, with suggestions for how to improve
 * [Breaking Down CSS Art](http://coffeecraftcode.com/2017/12/27/breaking-down-css-art/): How [Christina Gorton](https://twitter.com/coffeecraftcode) goes about creating her CSS masterpieces
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE): 14 interactive screencasts by [Per Harald Borgen](https://medium.freecodecamp.org/@perborgen) to take you from beginner to advanced
 
 
 
