@@ -15,3 +15,7 @@
 * [The 100% Correct Way to Do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862): Confused by breakpoints? Here's a better way to understand them and set them up
 * [How CSS Pseudo-Classes Work](): An explanation of pseudo-classes and their usefulness with code examples and plenty of diagrams
 * [Which Colors to Avoid in Web Design](https://medium.com/wd-tips-tricks/which-colors-to-avoid-in-web-design-8eb8ec1832c7): An overview of some not-to-dos with color, with suggestions for how to improve
+* [Breaking Down CSS Art](http://coffeecraftcode.com/2017/12/27/breaking-down-css-art/): How [Christina Gorton](https://twitter.com/coffeecraftcode) goes about creating her CSS masterpieces
+
+
+
