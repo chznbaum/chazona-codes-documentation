@@ -15,7 +15,10 @@
 * [The 100% Correct Way to Do CSS Breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862): Confused by breakpoints? Here's a better way to understand them and set them up
 * [How CSS Pseudo-Classes Work](): An explanation of pseudo-classes and their usefulness with code examples and plenty of diagrams
 * [Which Colors to Avoid in Web Design](https://medium.com/wd-tips-tricks/which-colors-to-avoid-in-web-design-8eb8ec1832c7): An overview of some not-to-dos with color, with suggestions for how to improve
+* [A Beginner's Guide to Pure CSS Images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2): A blog post by [Mike Mangialardi](http://mike.codingartist.io/) going over the basics of creating images with pure CSS
+* [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/p/how-to-make-pure-css-images): A 100% free crash course on mastering pure CSS images by [Mike Mangialardi](http://mike.codingartist.io/)
 * [Breaking Down CSS Art](http://coffeecraftcode.com/2017/12/27/breaking-down-css-art/): How [Christina Gorton](https://twitter.com/coffeecraftcode) goes about creating her CSS masterpieces
+* [An Advanced Guide to Pure CSS Images \(Powering Up with Vue.js\)](https://medium.com/coding-artist/an-advanced-guide-to-pure-css-images-powering-up-with-vue-js-6e1bec33c466): A guide by [Mike Mangialardi](http://mike.codingartist.io/) on integrating Vue.js to create complex CSS image scenes
 * [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE): 14 interactive screencasts by [Per Harald Borgen](https://medium.freecodecamp.org/@perborgen) to take you from beginner to advanced
 
 
