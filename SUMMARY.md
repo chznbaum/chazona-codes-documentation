@@ -7,8 +7,6 @@
 * [Front End](/front-end/README.md)
   * [HTML](/front-end/html/README.md)
   * [CSS](/front-end/css/README.md)
-    * [Syntax](/front-end/css/syntax/README.md)
-      * [Selectors](/front-end/css/syntax/selectors.md)
     * [Organization](/front-end/css/organization/README.md)
       * [BEM](/front-end/css/organization/bem/README.md)
   * [JavaScript](/front-end/javascript/README.md)
